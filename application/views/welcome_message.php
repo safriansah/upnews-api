@@ -81,6 +81,8 @@
         <p>NPM.1534010032 Revanda Dwi Fani</p>
         <p>NPM.1534010032 Muhammad Syafriansyah</p>
         <p>NPM.1534010033 Alfian Hendika Putra</p>
+        <h4>Dapatkan akses API kami <a href="<?php echo base_url(); ?>berita">disini</a></h4>
+        
     </div>
 
     <p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>'.CI_VERSION.'</strong>' : '' ?></p>
